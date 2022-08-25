@@ -1,7 +1,7 @@
 # APP1 Laravel demo project
 For deploy this project please flow below guideline
 1. Install docker and docker compose
-2 git clone https://github.com/jamiula/APP1.git
+2. git clone https://github.com/jamiula/APP1.git
 3. cd APP1
 4. cp .env.example .env
 5. docker-compose build app
